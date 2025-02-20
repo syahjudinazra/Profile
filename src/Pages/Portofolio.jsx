@@ -118,7 +118,7 @@ const techStacks = [
   { icon: "nodejs.svg", language: "Node JS" },
   { icon: "laravel.svg", language: "Laravel" },
   { icon: "reactjs.svg", language: "ReactJS" },
-  { icon: "vue.svg", language: "VueJs" },
+  { icon: "vueJs.svg", language: "VueJs" },
   { icon: "vite.svg", language: "Vite" },
   { icon: "firebase.svg", language: "Firebase" },
   { icon: "mysql.svg", language: "MySQL" },
